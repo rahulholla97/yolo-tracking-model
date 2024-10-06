@@ -1,4 +1,4 @@
-# Child and Therapist Tracking Model
+# Object Tracking Model
 
 This project implements a system for tracking and classifying children and therapists in video footage using YOLOv8 object detection and custom classification models.
 
